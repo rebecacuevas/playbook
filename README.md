@@ -4,4 +4,4 @@
 
 Repositorio para guardar las prácticas de Launch X.
 
-Mis ejercicios los podrás encontrar en la rama llamada my_work
+Mis ejercicios los podrás encontrar en la rama llamada **my_work**
